@@ -13,6 +13,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Executing default test... Completed!!");
 	}
 
 }
